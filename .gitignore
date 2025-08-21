@@ -1,0 +1,8 @@
+# Ignorar dependências
+node_modules/
+
+# Ignorar relatórios de testes
+reports/
+
+# Ignorar variáveis de ambiente
+.env
